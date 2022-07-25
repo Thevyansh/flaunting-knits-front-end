@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Square+Peg&display=swap');
 .container {
   padding: 0 2rem;
 }
@@ -127,3 +128,12 @@
     filter: invert(1);
   }
 }
+
+.uc{
+  display: flex;
+  flex-direction: column ;
+  align-items: center;
+  font-family: 'Square Peg', cursive;
+font-size: 32px;
+}
+
