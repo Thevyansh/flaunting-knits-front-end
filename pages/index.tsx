@@ -16,7 +16,7 @@ const Home: NextPage = () => {
         <div className={styles.uc}>
 
         <Image src='/logo.svg' alt='next' width="400px" height="400px"/>
-        <h1>Our online store will be up and running soon, Stay Tuned</h1>
+        <h1>Our online store will be up and running soon, Stay Tuned!</h1>
         </div>
       </main>
 
